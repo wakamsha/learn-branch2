@@ -36,21 +36,21 @@
   - [x] コミット 4.2
   - [x] PR 作成 ( to `ブランチ3` )
 - ブランチ3 (2)
-  - [ ] Squash & Merge
+  - [x] Squash & Merge
 - ブランチ4 (2)
-  - [ ] マージ先を `qa` に変更
-  - [ ] Squash & Merge
+  - [x] マージ先を `qa` に変更
+  - [x] Squash & Merge
 - リリース
-  - [ ] PR 作成 ( to `master` )
-  - [ ] Merge commit
-  - [ ] タグ作成
+  - [x] PR 作成 ( to `master` )
+  - [x] Merge commit
+  - [x] タグ作成
 
 ### Rebase 取り込みパターン
 
 - ブランチ5
-  - [ ] コミット 5.1
-  - [ ] コミット 5.2
-  - [ ] PR 作成 ( to `qa` )
+  - [x] コミット 5.1
+  - [x] コミット 5.2
+  - [x] PR 作成 ( to `qa` )
 - ブランチ6
   - [ ] コミット 6.1
   - [ ] コミット 6.2
