@@ -58,8 +58,8 @@
 - ブランチ5 (2)
   - [x] Squash & Merge
 - ブランチ6 (2)
-  - [ ] `git rebase` して最新の `qa` を取り込む
-  - [ ] Squash & Merge
+  - [x] `git rebase` して最新の `qa` を取り込む
+  - [x] Squash & Merge
 - リリース
   - [ ] PR 作成 ( to `master` )
   - [ ] Merge commit
