@@ -52,11 +52,11 @@
   - [x] コミット 5.2
   - [x] PR 作成 ( to `qa` )
 - ブランチ6 ( from qa )
-  - [ ] コミット 6.1
-  - [ ] コミット 6.2
-  - [ ] PR 作成 ( to `qa` )
+  - [x] コミット 6.1
+  - [x] コミット 6.2
+  - [x] PR 作成 ( to `qa` )
 - ブランチ5 (2)
-  - [ ] Squash & Merge
+  - [x] Squash & Merge
 - ブランチ6 (2)
   - [ ] `git rebase` して最新の `qa` を取り込む
   - [ ] Squash & Merge
