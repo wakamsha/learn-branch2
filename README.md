@@ -81,16 +81,16 @@
   - [x] `git merge` して最新の `qa` を取り込む
   - [x] Squash & Merge
 - リリース
-  - [ ] PR 作成 ( to `master` )
-  - [ ] Merge commit
-  - [ ] タグ作成
+  - [x] PR 作成 ( to `master` )
+  - [x] Merge commit
+  - [x] タグ作成
 
 ### Hot Fix パターン
 
 - ブランチ9 ( from master )
-  - [ ] コミット 9.1
-  - [ ] コミット 9.2
-  - [ ] PR 作成 ( to `master` )
+  - [x] コミット 9.1
+  - [x] コミット 9.2
+  - [x] PR 作成 ( to `master` )
   - [ ] Merge commit
 - リリース
   - [ ] タグ作成
