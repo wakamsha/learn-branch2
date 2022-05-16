@@ -76,10 +76,14 @@
   - [x] コミット 8.2
   - [x] PR 作成 ( to `qa` )
 - ブランチ7 (2)
-  - [ ] Squash & Merge
+  - [x] Squash & Merge
 - ブランチ8 (2)
-  - [ ] `git merge` して最新の `qa` を取り込む
-  - [ ] Squash & Merge
+  - [x] `git merge` して最新の `qa` を取り込む
+  - [x] Squash & Merge
+- リリース
+  - [ ] PR 作成 ( to `master` )
+  - [ ] Merge commit
+  - [ ] タグ作成
 
 ### Hot Fix パターン
 
