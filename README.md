@@ -61,16 +61,16 @@
   - [x] `git rebase` して最新の `qa` を取り込む
   - [x] Squash & Merge
 - リリース
-  - [ ] PR 作成 ( to `master` )
-  - [ ] Merge commit
-  - [ ] タグ作成
+  - [x] PR 作成 ( to `master` )
+  - [x] Merge commit
+  - [x] タグ作成
 
 ### Merge 取り込みパターン
 
 - ブランチ7 ( from qa )
-  - [ ] コミット 7.1
-  - [ ] コミット 7.2
-  - [ ] PR 作成 ( to `qa` )
+  - [x] コミット 7.1
+  - [x] コミット 7.2
+  - [x] PR 作成 ( to `qa` )
 - ブランチ8 ( from qa )
   - [ ] コミット 8.1
   - [ ] コミット 8.2
