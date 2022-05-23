@@ -91,9 +91,9 @@
   - [x] コミット 9.1
   - [x] コミット 9.2
   - [x] PR 作成 ( to `master` )
-  - [ ] Merge commit
+  - [x] Squash & Merge
 - リリース
-  - [ ] タグ作成
+  - [x] タグ作成
 - 取り込み
-  - [ ] PR 作成 ( to `qa` from `master` )
-  - [ ] Squash & Merge
+  - [x] PR 作成 ( to `qa` from `master` )
+  - [x] Squash & Merge
